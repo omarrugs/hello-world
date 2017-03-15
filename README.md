@@ -6,3 +6,4 @@ my first repo
 * lets see the bullets 
 * 1
 * 2
+* 3
